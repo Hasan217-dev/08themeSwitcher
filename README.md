@@ -20,7 +20,7 @@ A modern, responsive **dark/light theme switcher** built with React, Vite, and T
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/08themeSwitcher.git
+git clone https://github.com/Hasan217-dev/08themeSwitcher
 
 # Navigate to the project
 cd 08themeSwitcher
